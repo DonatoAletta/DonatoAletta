@@ -1,9 +1,6 @@
 
 ### It's a me Donato
 
-![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/491174779278065689) 
-
-----
 
 A high schooler from Italy with a passion for back-end java development
 
