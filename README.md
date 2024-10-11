@@ -1,33 +1,18 @@
+<h1 align="center">Hi 👋, I'm Donato</h1>
+<h3 align="center">A passionate backend developer from Italy</h3>
 
-### It's a me Donato
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DonatoAletta&label=Profile%20views&color=0e75b6&style=flat" alt="DonatoAletta" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DonatoAletta" alt="DonatoAletta" /></a> </p>
 
-A high schooler from Italy with a passion for back-end java development
+- 🌱 I’m currently learning **Spring Framework, Java**
 
------
-<a href="https://github.com/DonatoAletta">
-  <img src="https://komarev.com/ghpvc/?username=DonatoAletta&style=flat-square" />
-</a>
+- 📫 How to reach me **donatoalettawork@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/donato-aletta-613b08290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federica parillo" height="30" width="40" /></a>
+</p>
 
-***
-
-<a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api?username=DonatoAletta&show_icons=true&hide_border=true" />
-</a>
-
----
-
-<a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonatoAletta&layout=compact" />
-</a>
-
-
-Feel free to chat with me on discord.
-
------
-
-
-Have a Great Day!
-
-⭐️ From [DonatoAletta](https://github.com/DonatoAletta)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
